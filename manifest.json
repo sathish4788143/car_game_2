@@ -1,0 +1,15 @@
+{
+  "name": "Friends: Pivot Race",
+  "short_name": "PivotRace",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#E02626",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2554/2554930.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
